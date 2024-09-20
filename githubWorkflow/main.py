@@ -1,6 +1,6 @@
 # main.py
 def hello_world():
-    return "Hello, from Corey Tarpley!"
+    return "Welcome to Git!"
 
 def greet_person(name: str) -> str:
     return "Hello, " + name + "!"
